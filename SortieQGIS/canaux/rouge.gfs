@@ -1,0 +1,23 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>layer</Name>
+    <ElementPath>layer</ElementPath>
+    <GeometryName>geometryProperty</GeometryName>
+    <GeometryElementPath>geometryProperty</GeometryElementPath>
+    <!--POLYGON-->
+    <GeometryType>3</GeometryType>
+    <SRSName>EPSG:2154</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>32211</FeatureCount>
+      <ExtentXMin>588435.90000</ExtentXMin>
+      <ExtentXMax>588695.90000</ExtentXMax>
+      <ExtentYMin>6724893.89000</ExtentYMin>
+      <ExtentYMax>6725153.89000</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>DN</Name>
+      <ElementPath>DN</ElementPath>
+      <Type>Integer</Type>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>
